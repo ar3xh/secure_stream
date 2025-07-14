@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561996672561",
+    "project_id": "secu-15e37",
+    "storage_bucket": "secu-15e37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561996672561:android:b2a840f8dacf1b69e7af10",
+        "android_client_info": {
+          "package_name": "com.arcane.securestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561996672561-4bhp3qa4mghdfm9rcen4ec3lj7frsepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcane.securestream",
+            "certificate_hash": "afe908821fb4f2e8c73d54a0492cdc229e56f18a"
+          }
+        },
+        {
+          "client_id": "561996672561-a493pog5ia1ttnt5pn3nvstn81hv08ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mwO5xbZfdZCpgRPEdMfKt0TLt0V04U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561996672561-a493pog5ia1ttnt5pn3nvstn81hv08ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

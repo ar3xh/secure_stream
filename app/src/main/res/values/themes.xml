@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme.Mobile" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Tv" parent="@style/Theme.Leanback">
+    </style>
+
+    <style name="AppTheme.SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash_screen</item>
+    </style>
+
+</resources>
